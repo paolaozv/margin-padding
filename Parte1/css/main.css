@@ -1,0 +1,9 @@
+/* Agrega aqui tu CSS */
+.box {
+	width: 240px;
+	height: 240px;
+	border: 2px solid #F93E3E;
+}
+.box h3, p {
+	margin: 15px 20px;
+}
