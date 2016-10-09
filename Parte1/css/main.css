@@ -1,9 +1,10 @@
 /* Agrega aqui tu CSS */
 .box {
-	width: 240px;
-	height: 240px;
+	width: 200px;
 	border: 2px solid #F93E3E;
+	padding: 10px;
 }
 .box h3, p {
-	margin: 15px 20px;
+	margin: 0.5em 0em;
+	font-size: 1em;
 }
